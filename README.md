@@ -40,6 +40,13 @@ All premium features
 Daily messaging support
 Personalized meal plans
 
+#Plan is to create a Ecosystem for the coach and clients
+Ecosystem will include
+1. Healthy snacks
+2. Daily meals
+3. Supplements
+4. Gym Accessories
+5. GYM Tieups
 
 #Tech Stack in Mind
 1. Flutter for mobile and ios app
